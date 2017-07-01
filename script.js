@@ -1,4 +1,6 @@
-alert ("Hello, Dear User!")
+
+alert ("Hello, Gamer!")
+
 const YES = "yes"
 const correct1 = "1"
 const correct2 = "2"
